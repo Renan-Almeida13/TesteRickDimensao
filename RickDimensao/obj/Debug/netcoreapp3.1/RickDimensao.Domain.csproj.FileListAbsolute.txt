@@ -1,0 +1,12 @@
+C:\Projeto\TesteRickDimensao\RickDimensao\bin\Debug\netcoreapp3.1\RickDimensao.Domain.deps.json
+C:\Projeto\TesteRickDimensao\RickDimensao\bin\Debug\netcoreapp3.1\RickDimensao.Domain.runtimeconfig.json
+C:\Projeto\TesteRickDimensao\RickDimensao\bin\Debug\netcoreapp3.1\RickDimensao.Domain.runtimeconfig.dev.json
+C:\Projeto\TesteRickDimensao\RickDimensao\bin\Debug\netcoreapp3.1\RickDimensao.Domain.dll
+C:\Projeto\TesteRickDimensao\RickDimensao\bin\Debug\netcoreapp3.1\RickDimensao.Domain.pdb
+C:\Projeto\TesteRickDimensao\RickDimensao\obj\Debug\netcoreapp3.1\RickDimensao.Domain.csprojAssemblyReference.cache
+C:\Projeto\TesteRickDimensao\RickDimensao\obj\Debug\netcoreapp3.1\RickDimensao.Domain.AssemblyInfoInputs.cache
+C:\Projeto\TesteRickDimensao\RickDimensao\obj\Debug\netcoreapp3.1\RickDimensao.Domain.AssemblyInfo.cs
+C:\Projeto\TesteRickDimensao\RickDimensao\obj\Debug\netcoreapp3.1\RickDimensao.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto\TesteRickDimensao\RickDimensao\obj\Debug\netcoreapp3.1\RickDimensao.Domain.dll
+C:\Projeto\TesteRickDimensao\RickDimensao\obj\Debug\netcoreapp3.1\RickDimensao.Domain.pdb
+C:\Projeto\TesteRickDimensao\RickDimensao\obj\Debug\netcoreapp3.1\RickDimensao.Domain.genruntimeconfig.cache

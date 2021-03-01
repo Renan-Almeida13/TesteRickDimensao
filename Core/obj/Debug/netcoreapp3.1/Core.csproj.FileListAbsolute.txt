@@ -1,0 +1,16 @@
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\Dommel.dll
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\RickDimensao.Domain.dll
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\RickDimensao.Domain.pdb
+C:\Projeto\TesteRickDimensao\Core\bin\Debug\netcoreapp3.1\Dommel.pdb
+C:\Projeto\TesteRickDimensao\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Projeto\TesteRickDimensao\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Projeto\TesteRickDimensao\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Projeto\TesteRickDimensao\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Projeto\TesteRickDimensao\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+C:\Projeto\TesteRickDimensao\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Projeto\TesteRickDimensao\Core\obj\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionStrings": {
+    "SqlServerConnection": "",
+    "UniversoRickDB": "server=renanrickdimensao.csvxxt1f2sbh.us-east-2.rds.amazonaws.com,3306;uid=admin;pwd=admin1234;database=UniversoRick"
+  }
+}

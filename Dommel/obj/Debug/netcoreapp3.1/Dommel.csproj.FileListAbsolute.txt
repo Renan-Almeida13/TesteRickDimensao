@@ -1,0 +1,44 @@
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\bin\Debug\netcoreapp3.1\Dommel.deps.json
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\bin\Debug\netcoreapp3.1\Dommel.dll
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\bin\Debug\netcoreapp3.1\Dommel.pdb
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfoInputs.cache
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfo.cs
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\obj\Debug\netcoreapp3.1\Dommel.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\obj\Debug\netcoreapp3.1\Dommel.dll
+C:\Users\Matheus Ribeiro\Desktop\Projeto\FabricaDeProjetos\Dommel\obj\Debug\netcoreapp3.1\Dommel.pdb
+D:\Projetos\testedotnet1\Dommel\bin\Debug\netcoreapp3.1\Dommel.deps.json
+D:\Projetos\testedotnet1\Dommel\bin\Debug\netcoreapp3.1\Dommel.dll
+D:\Projetos\testedotnet1\Dommel\bin\Debug\netcoreapp3.1\Dommel.pdb
+D:\Projetos\testedotnet1\Dommel\obj\Debug\netcoreapp3.1\Dommel.csprojAssemblyReference.cache
+D:\Projetos\testedotnet1\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfoInputs.cache
+D:\Projetos\testedotnet1\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfo.cs
+D:\Projetos\testedotnet1\Dommel\obj\Debug\netcoreapp3.1\Dommel.csproj.CoreCompileInputs.cache
+D:\Projetos\testedotnet1\Dommel\obj\Debug\netcoreapp3.1\Dommel.dll
+D:\Projetos\testedotnet1\Dommel\obj\Debug\netcoreapp3.1\Dommel.pdb
+D:\Projetos\RickLocalization\Dommel\bin\Debug\netcoreapp3.1\Dommel.deps.json
+D:\Projetos\RickLocalization\Dommel\bin\Debug\netcoreapp3.1\Dommel.dll
+D:\Projetos\RickLocalization\Dommel\bin\Debug\netcoreapp3.1\Dommel.pdb
+D:\Projetos\RickLocalization\Dommel\obj\Debug\netcoreapp3.1\Dommel.csprojAssemblyReference.cache
+D:\Projetos\RickLocalization\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfoInputs.cache
+D:\Projetos\RickLocalization\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfo.cs
+D:\Projetos\RickLocalization\Dommel\obj\Debug\netcoreapp3.1\Dommel.csproj.CoreCompileInputs.cache
+D:\Projetos\RickLocalization\Dommel\obj\Debug\netcoreapp3.1\Dommel.dll
+D:\Projetos\RickLocalization\Dommel\obj\Debug\netcoreapp3.1\Dommel.pdb
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\bin\Debug\netcoreapp3.1\Dommel.deps.json
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\bin\Debug\netcoreapp3.1\Dommel.dll
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\bin\Debug\netcoreapp3.1\Dommel.pdb
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\obj\Debug\netcoreapp3.1\Dommel.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\obj\Debug\netcoreapp3.1\Dommel.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\obj\Debug\netcoreapp3.1\Dommel.dll
+C:\Users\Renan\Desktop\Nova pasta\RickLocalization-main\Dommel\obj\Debug\netcoreapp3.1\Dommel.pdb
+C:\Projeto\TesteRickDimensao\Dommel\bin\Debug\netcoreapp3.1\Dommel.deps.json
+C:\Projeto\TesteRickDimensao\Dommel\bin\Debug\netcoreapp3.1\Dommel.dll
+C:\Projeto\TesteRickDimensao\Dommel\bin\Debug\netcoreapp3.1\Dommel.pdb
+C:\Projeto\TesteRickDimensao\Dommel\obj\Debug\netcoreapp3.1\Dommel.csprojAssemblyReference.cache
+C:\Projeto\TesteRickDimensao\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfoInputs.cache
+C:\Projeto\TesteRickDimensao\Dommel\obj\Debug\netcoreapp3.1\Dommel.AssemblyInfo.cs
+C:\Projeto\TesteRickDimensao\Dommel\obj\Debug\netcoreapp3.1\Dommel.csproj.CoreCompileInputs.cache
+C:\Projeto\TesteRickDimensao\Dommel\obj\Debug\netcoreapp3.1\Dommel.dll
+C:\Projeto\TesteRickDimensao\Dommel\obj\Debug\netcoreapp3.1\Dommel.pdb
